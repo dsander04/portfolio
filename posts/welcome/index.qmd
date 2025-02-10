@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "CV and Resume"
 date: "2025-01-19"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Here is my [resume](Dominic Sander Resume.pdf) and a [cover letter for a sample job posting](DSander_Coverletter.pdf).

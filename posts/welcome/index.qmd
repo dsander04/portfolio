@@ -4,5 +4,4 @@ date: "2025-01-19"
 categories: [news]
 ---
 
-
-Here is my [resume](Dominic Sander Resume.pdf) and a [cover letter for a sample job posting](DSander_Coverletter.pdf).
+Here is my [resume](Dominic_Sander_Resume.pdf) and a [cover letter for a sample job posting](DSander_Coverletter.pdf).

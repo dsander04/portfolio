@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "DSander_portfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 22, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nCV and Resume\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 19, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "index\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCV and Resume\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 19, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Projects/index.html",
+    "href": "posts/Projects/index.html",
+    "title": "index",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "A collection of statistics projects focused on data visualization and predictive modeling.\nThroughout my time at the University of Nebraska-Lincoln, I’ve had the opportunity to create many projects that showcase my abilities as a statistician. Below are the links to the projects as well as a brief description of what I was required to do.\n\nStat 471 NormForm Package (Dec. 2025) This is a report on the NormForm package that classmates Josie Browning, Jo Charbonneau, and I created in the Analysis of Messy Data class led by Dr. Heike Hofmann. We created this package as part of our capstone on working with messy data, aiming to make identifying keys and normal forms of data easier. We are currently working on improvements for another class taught by Dr. Hofmann to hopefully get it ready for Cran.\n[NormForm Repository](https://github.com/dsander04/NormForm)\nStat 351 API Use and Interactive Graphics Screencast (Nov. 2025)\nA recent screencast discussing ethical use of APIs and best practices when using public data. I read in and clean data from BibleAPI and used it for an analysis. I created multiple graphics, including an RShiny graphic. Due to time constraints, I couldn’t troubleshoot the graphic, but have since improved my Shiny skills. The video link and time stamps are in the README file.\n[Screencast Repository](https://github.com/unl-stat351/screencast-public-data-dsander04)\nStat 349 Business Report on Nuclear Power (May 2025)\nThis is a final project for the Stat 349 class led taught by Dr. Susan VanderPlas. We were assigned a hypothetical issues and tasked with using predictive modeling and research to advise on what steps to take. I used predictive modeling to look for days that surpass the safe water temperature threshold for this fake power plant. I created graphs and tables to show the output and wrote a full report including data documentation and real-world connections.\n[Business ReportGithub Repository](https://github.com/unl-stat349-2025a/business-report-dsander04)\nStat 349 User Guide on Nullabor Package and Visual Inference (March 2025)\nIn this project, we were tasked with writing an in-depth user guide on a topic of our choice. After reading an article about [what makes a good graph](https://www.annualreviews.org/doi/10.1146/annurev-statistics-031219-041252), I decided to create my guide on visual inference and how it relates to randomization tests. I walk through how to use the nullabor and ggplot2 packages to create a lineup and discuss the results of a fake experiment ran with the lineup.\n[User Guide Repository](https://github.com/unl-stat349-2025a/annual-review-user-guide-dsander04)\nStat 251 Data Wrangling Screencast (March 2024)\nThis was the first screencast of my college career and it wouldn’t be my last. In the Stat 251 data wrangling class, I was tasked with cleaning data, making sense of it, and clearly visualizing it. Here, I demonstrate knowledge of the tidyverse, function writing, and proper data visualization using Scooby Doo data found online. The README file has a video link and time stamps for important topics covered.\n[Screencast Repository](https://github.com/unl-2024-stat251/screencast-dsander04)"
   }
 ]

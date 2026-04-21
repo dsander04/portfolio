@@ -1,6 +1,8 @@
 ---
 title: "Projects"
+date-modified: "2026-04-21"
 format: html
+image: "files/thumbnail.png"
 ---
 
 A collection of statistics projects focused on data visualization and predictive modeling.

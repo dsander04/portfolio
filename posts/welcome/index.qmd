@@ -2,6 +2,7 @@
 title: "CV and Resume"
 date: "2025-01-19"
 categories: [news]
+image: "files/thumbnail.jpg"
 ---
 
 Here is my [resume](Dominic_Sander_Resume.pdf) and a [cover letter for a sample job posting](DSander_Coverletter.pdf).

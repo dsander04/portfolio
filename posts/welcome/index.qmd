@@ -1,8 +1,10 @@
 ---
-title: "CV and Resume"
+title: "Resume"
 date: "2025-01-19"
 categories: [news]
 image: "files/thumbnail.jpg"
 ---
 
-Here is my [resume](Dominic_Sander_Resume.pdf) and a [cover letter for a sample job posting](DSander_Coverletter.pdf).
+Looking for a statistician or data analyst with a strong foundation in statistical modeling, programming, and data visualization? Here is my current resume.
+
+[View my resume](Dominic_Sander_Resume.pdf)

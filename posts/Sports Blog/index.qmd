@@ -1,0 +1,8 @@
+---
+title: "index"
+format: html
+---
+
+Sports analytics is where I combine my statistical background with my lifelong passion for sports. Here you'll find original analyses, interactive dashboards, and data visualizations covering professional and collegiate sports.
+
+[Visit My Sports Analytics Blog](https://dsander04.github.io/)

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DSander_portfolio"
+  title: "Dominic Sander | Statistics Portfolio"
   navbar:
     right:
       - about.qmd

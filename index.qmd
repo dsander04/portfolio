@@ -1,5 +1,5 @@
 ---
-title: "DSander_portfolio"
+title: "Dominic Sander Portfolio"
 listing:
   contents: posts
   sort: "date desc"
